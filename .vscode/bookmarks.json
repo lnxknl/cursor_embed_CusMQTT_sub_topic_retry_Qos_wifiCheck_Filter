@@ -19,6 +19,16 @@
 					"label": ""
 				}
 			]
+		},
+		{
+			"path": "main/message_handler.c",
+			"bookmarks": [
+				{
+					"line": 98,
+					"column": 46,
+					"label": ""
+				}
+			]
 		}
 	]
 }
