@@ -1,0 +1,24 @@
+{
+	"files": [
+		{
+			"path": "main/topic_manager.c",
+			"bookmarks": [
+				{
+					"line": 27,
+					"column": 21,
+					"label": ""
+				}
+			]
+		},
+		{
+			"path": "main/publisher.c",
+			"bookmarks": [
+				{
+					"line": 53,
+					"column": 26,
+					"label": ""
+				}
+			]
+		}
+	]
+}
