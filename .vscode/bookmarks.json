@@ -29,6 +29,21 @@
 					"label": ""
 				}
 			]
+		},
+		{
+			"path": "main/websocket/ws_client.c",
+			"bookmarks": [
+				{
+					"line": 80,
+					"column": 31,
+					"label": ""
+				},
+				{
+					"line": 91,
+					"column": 31,
+					"label": ""
+				}
+			]
 		}
 	]
 }
